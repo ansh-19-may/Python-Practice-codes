@@ -1,0 +1,1 @@
+this is append mode text file. here cursor is placed at the end of the file.

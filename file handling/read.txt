@@ -1,0 +1,1 @@
+this is a readable file. if opened as read mode "r" , you are not able to write anything in it.
